@@ -206,3 +206,7 @@ pip install groq gradio mcp requests python-dotenv reportlab
 **SerpAPI (Free — 100 searches/month, no credit card):**
 1. Visit [serpapi.com](https://serpapi.com)
 2. Sign up → Dashboard → copy your **API Key**
+
+## Demo Video
+
+Project demonstration video: https://drive.google.com/drive/folders/1EP745cinPG8NZ5cP_uZF4oAxnSW8AeFa
